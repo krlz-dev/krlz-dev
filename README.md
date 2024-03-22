@@ -13,19 +13,19 @@ My expertise ranges from database management and optimization to cloud technolog
 
 ## Experience
 
-### Senior Developer | Portavita LLC | Innopolis, Russia - Amsterdam, Netherlands | 2018 - 2024 🇳🇱 - 🇷🇺
+### Senior Developer | Portavita LLC | Innopolis, Russia - Amsterdam, Netherlands | 2018 - 2024
 In this role, I spearheaded software design decisions and implementations within multidisciplinary teams, contributing to digital healthcare projects aimed at enhancing data accessibility and management.
 
-### Internship, Research, and Technical Writing | Acronis | Innopolis, Russia | 2017 - 2018 🇷🇺
+### Internship, Research, and Technical Writing | Acronis | Innopolis, Russia | 2017 - 2018 
 Conducted research and implemented solutions for real-world projects, notably contributing to "Application Aware Disaster Recovery," which received recognition from senior management.
 
-### System Data Analyst | COFAR Laboratories | La Paz, Bolivia | 2016 - 2017 🇧🇴
+### System Data Analyst | COFAR Laboratories | La Paz, Bolivia | 2016 - 2017 
 Led initiatives to enhance system modules within a microservices architecture, optimizing data processes for improved efficiency.
 
-### Instructor in Web Development | ATENEA | La Paz, Bolivia | 2014 - 2016 🇧🇴
+### Instructor in Web Development | ATENEA | La Paz, Bolivia | 2014 - 2016 
 Designed and delivered comprehensive web development courses, empowering students with practical skills and industry-relevant knowledge.
 
-### Web Developer | Vice Presidential Office | La Paz, Bolivia | 2011 - 2013 🇧🇴
+### Web Developer | Vice Presidential Office | La Paz, Bolivia | 2011 - 2013 
 Collaborated on a groundbreaking project to create an online encyclopedia of the Political Constitution of Bolivia, contributing to its design and implementation.
 
 ---
