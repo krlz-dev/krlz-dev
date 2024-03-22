@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a software engineer with hands-on experience in full-stack development, solid knowledge of microservice architecture, and a broad understanding of web technologies. I work efficiently across the entire software development lifecycle (SDLC), with experience in agile methodologies and familiarity with the funny acronyms YAGNI, DRY, KISS, SOLID, SOC, POC, MVP, and -BDUF-. My expertise ranges from database management and optimization to cloud technologies and deployment strategies. I excel in analytical problem-solving and thrive in collaborative environments.
+I'm a software engineer with hands-on experience in full-stack development, solid knowledge of microservice architecture, and a broad understanding of web technologies. I work efficiently across the entire software development lifecycle (SDLC), with experience in agile methodologies and familiarity with the funny acronyms YAGNI, DRY, KISS, SOLID, SOC, POC, MVP. My expertise ranges from database management and optimization to cloud technologies and deployment strategies. I excel in analytical problem-solving and thrive in collaborative environments.
 
 ## 🔭 I’m currently working with:
 
