@@ -1,8 +1,8 @@
 ### Hi there 👋
-I am a software engineer with over 8 years of hands-on experience in full-stack development, specializing in microservice architecture and cutting-edge web technologies. Proficient in the entire software development lifecycle (SDLC), I adhere to agile methodologies and prioritize clean code practices. My expertise spans from database management and optimization to cloud technologies and deployment strategies. I excel in analytical problem-solving and thrive in collaborative environments.
+I'm a software engineer with hands-on experience in full-stack development, solid knowledge of microservice architecture, and a broad understanding of web technologies. I work efficiently across the entire software development lifecycle (SDLC), with experience in agile methodologies and familiarity with the funny acronyms YAGNI, DRY, KISS, SOLID, SOC, POC, MVP, and -BDUF-. My expertise ranges from database management and optimization to cloud technologies and deployment strategies. I excel in analytical problem-solving and thrive in collaborative environments.
 
-## Key Skills
-- **Languages:** Spanish (native), English (Advanced C2)
+## 🔭 I’m currently working with:
+
 - **Backend Development:** Java, Spring Boot, Scala, Akka, Akka Http
 - **Frontend Development:** JavaScript, React, Svelte, Vue, Node, Express, TypeScript, NextJs, HTML, CSS
 - **Other Skills:** Bash scripting, Python
@@ -58,11 +58,13 @@ Collaborated on a groundbreaking project to create an online encyclopedia of the
 
 **Functional Programming Principles in Scala:** [EPFL (École polytechnique fédérale de Lausanne)](https://www.coursera.org/account/accomplishments/verify/C49TNAHY3U5N)
 
-# Carlos Andres Monserrat Rojas Rojas - Msc. Software Engineering
-## Santiago, Chile
+📫 How to reach me: ...
 
 - **Telegram:** [@candresmon](https://t.me/candresmon)
 - **Github:** [krlz-dev](https://github.com/krlz-dev)
+
+# Carlos Andres Monserrat Rojas Rojas - Msc. Software Engineering
+## Santiago, Chile
 
 <!--
 **krlz-dev/krlz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
