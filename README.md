@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a software engineer with hands-on experience in full-stack development, solid knowledge of microservice architecture, and a broad understanding of web technologies. I work efficiently across the entire software development lifecycle (SDLC), with experience in agile methodologies and familiarity with the funny acronyms YAGNI, DRY, KISS, SOLID, SOC, POC, MVP. 
+I'm a software engineer with hands-on experience in full-stack development, currently based in Santiago de Chile 🇨🇱. I have solid knowledge of microservice architecture and a broad understanding of web technologies. I work efficiently across the entire software development lifecycle (SDLC), with experience in agile methodologies and familiarity with the funny acronyms YAGNI, DRY, KISS, SOLID, SOC, POC, and MVP.
 
 My expertise ranges from database management and optimization to cloud technologies and deployment strategies. I excel in analytical problem-solving and thrive in collaborative environments.
 
@@ -7,15 +7,7 @@ My expertise ranges from database management and optimization to cloud technolog
 
 - **Backend Development:** Java, Spring Boot, Scala, Akka, Akka Http
 - **Frontend Development:** JavaScript, React, Svelte, Vue, Node, Express, TypeScript, NextJs, HTML, CSS
-- **Other Skills:** Bash scripting, Python
-
-**Proficient with:**
-Linux, Windows, Jenkins, Jira, Github, Gitlab, Kubernetes, Docker, Kafka, Postgres, MySql, RabbitMq, Redis, PocketBase
-
-**Experience with:**
-MVC, Modular design, OOD principles, Functional programming design patterns, OAuth2, OpenID
-
-**Testing and Debugging:** Unit testing, Integration testing, Regression testing, Automated testing, Puppeteer, PlayWright
+- **Other Skills:** Bash scripting, Python, Linux, Windows, Jenkins, Jira, Github, Gitlab, Kubernetes, Docker, Kafka, Postgres, MySql, RabbitMq, Redis, PocketBase, MVC, Modular design, OOD principles, Functional programming design patterns, OAuth2, OpenID, Unit testing, Integration testing, Regression testing, Automated testing
 
 ---
 
@@ -41,16 +33,16 @@ Collaborated on a groundbreaking project to create an online encyclopedia of the
 ## Education
 
 - **MSc. in Information Technology: Software Engineering**  
-  Innopolis University, Innopolis, Russia
+  Innopolis University, Innopolis, Russia 🇷🇺
 
 - **Technical Degree in Graphic Design and Visual Communication**  
-  ATENEA Institute, La Paz, Bolivia
+  ATENEA Institute, La Paz, Bolivia 🇧🇴
 
 - **Bachelor in Systems Engineering**  
-  Nuestra Señora de La Paz University, La Paz, Bolivia
+  Nuestra Señora de La Paz University, La Paz, Bolivia 🇧🇴
 
 - **Language Studies in English as a Foreign Language**  
-  Centro Boliviano Americano, La Paz, Bolivia
+  Centro Boliviano Americano, La Paz, Bolivia 🇧🇴
 
 ---
 
