@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a software engineer with hands-on experience in full-stack development, currently based in Santiago de Chile 🇨🇱. I have solid knowledge of microservice architecture and a broad understanding of web technologies. I work efficiently across the entire software development lifecycle (SDLC), with experience in agile methodologies and familiarity with the funny acronyms YAGNI, DRY, KISS, SOLID, SOC, POC, and MVP.
+I'm a software engineer with hands-on experience in full-stack development, currently based in Santiago de Chile 🇨🇱.  I have solid knowledge of microservice architecture and a broad understanding of web technologies. I work efficiently across the entire software development lifecycle (SDLC), with experience in agile methodologies and familiarity with the funny acronyms YAGNI, DRY, KISS, SOLID, SOC, POC, and MVP.
 
 My expertise ranges from database management and optimization to cloud technologies and deployment strategies. I excel in analytical problem-solving and thrive in collaborative environments.
 
@@ -13,19 +13,19 @@ My expertise ranges from database management and optimization to cloud technolog
 
 ## Experience
 
-### Senior Developer | Portavita LLC | Innopolis, Russia - Amsterdam, Netherlands | 2018 - 2024
+### Senior Developer | Portavita LLC | Innopolis, Russia - Amsterdam, Netherlands | 2018 - 2024 🇳🇱 - 🇷🇺
 In this role, I spearheaded software design decisions and implementations within multidisciplinary teams, contributing to digital healthcare projects aimed at enhancing data accessibility and management.
 
-### Internship, Research, and Technical Writing | Acronis | Innopolis, Russia | 2017 - 2018
+### Internship, Research, and Technical Writing | Acronis | Innopolis, Russia | 2017 - 2018 🇷🇺
 Conducted research and implemented solutions for real-world projects, notably contributing to "Application Aware Disaster Recovery," which received recognition from senior management.
 
-### System Data Analyst | COFAR Laboratories | La Paz, Bolivia | 2016 - 2017
+### System Data Analyst | COFAR Laboratories | La Paz, Bolivia | 2016 - 2017 🇧🇴
 Led initiatives to enhance system modules within a microservices architecture, optimizing data processes for improved efficiency.
 
-### Instructor in Web Development | ATENEA | La Paz, Bolivia | 2014 - 2016
+### Instructor in Web Development | ATENEA | La Paz, Bolivia | 2014 - 2016 🇧🇴
 Designed and delivered comprehensive web development courses, empowering students with practical skills and industry-relevant knowledge.
 
-### Web Developer | Vice Presidential Office | La Paz, Bolivia | 2011 - 2013
+### Web Developer | Vice Presidential Office | La Paz, Bolivia | 2011 - 2013 🇧🇴
 Collaborated on a groundbreaking project to create an online encyclopedia of the Political Constitution of Bolivia, contributing to its design and implementation.
 
 ---
@@ -35,7 +35,7 @@ Collaborated on a groundbreaking project to create an online encyclopedia of the
 - **MSc. in Information Technology: Software Engineering**  
   Innopolis University, Innopolis, Russia 🇷🇺
 
-- **Technical Degree in Graphic Design and Visual Communication**  
+- **Graphic Design and Visual Communication**  
   ATENEA Institute, La Paz, Bolivia 🇧🇴
 
 - **Bachelor in Systems Engineering**  
@@ -51,14 +51,6 @@ Collaborated on a groundbreaking project to create an online encyclopedia of the
 **Software Engineering Specialization:** [The Hong Kong University of Science and Technology](https://coursera.org/share/aed3c84a828029c22d9d237a22a0e378)
 
 **Functional Programming Principles in Scala:** [EPFL (École polytechnique fédérale de Lausanne)](https://www.coursera.org/account/accomplishments/verify/C49TNAHY3U5N)
-
-📫 How to reach me: ...
-
-- **Telegram:** [@candresmon](https://t.me/candresmon)
-- **Github:** [krlz-dev](https://github.com/krlz-dev)
-
-# Carlos Andres Monserrat Rojas Rojas - Msc. Software Engineering
-## Santiago, Chile
 
 <!--
 **krlz-dev/krlz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
