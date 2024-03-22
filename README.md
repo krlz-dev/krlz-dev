@@ -52,7 +52,8 @@ Collaborated on a groundbreaking project to create an online encyclopedia of the
 
 **Functional Programming Principles in Scala:** [EPFL (École polytechnique fédérale de Lausanne)](https://www.coursera.org/account/accomplishments/verify/C49TNAHY3U5N)
 
-- 📫 How to reach me: ...
+- 📫 How to reach me:
+
 You can find me in dev.io https://dev.to/krlz
 
 <!--
